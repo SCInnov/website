@@ -628,3 +628,7 @@
     grid-template-columns: 1fr;
   }
 }
+
+html, body {
+  overflow-x: hidden;
+}
